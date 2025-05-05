@@ -1,7 +1,8 @@
 "use client";
 
-import DashboardHeader from "@/components/DashboardHeader";
-import DashboardPage from "@/components/DashboardPage";
+import DashboardHeader from "./DashboardHeader";
+import DashboardPage from "./DashboardPage";
+
 
 export default function DashboardShell() {
   return (
